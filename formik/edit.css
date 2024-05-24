@@ -1,17 +1,16 @@
-/* edit.css */
 .edit-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 70vh;
     background-color: #f4f4f9;
     padding: 20px;
 }
 
 .edit-form {
     background: #fff;
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 100%;
@@ -29,7 +28,7 @@
 
 .edit-form input {
     margin-bottom: 16px;
-    padding: 10px;
+    padding: 5px;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
@@ -64,6 +63,7 @@
     background-color: #5a6268;
 }
 
-.mt-2 {
-    margin-top: 20px;
+
+.one{
+    color:red;
 }
